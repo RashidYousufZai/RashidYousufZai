@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQEWigAZFfUZ1w/profile-displaybackgroundimage-shrink_200_800/0/1648828520435?e=2147483647&v=beta&t=AzKXY8og20pzr_nsbQz7p90zBs5c_UxzxSM6q1eQm4A)](https://ryz.io)
 <h1 align="center">Hi 👋, I'm Rashid</h1>
-<h3 align="center">A passionate frontend developer from Paksitan</h3>
+<h3 align="center">A passionate Mern Stack & WordPress developer from Paksitan</h3>
 <img align = "right" alt= "coading" width= "400px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 
 <p align="left"> <a href="https://twitter.com/rashidyousufza3" target="blank"><img src="https://img.shields.io/twitter/follow/rashidyousufza3?logo=twitter&style=for-the-badge" alt="rashidyousufza3" /></a> </p>
