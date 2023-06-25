@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **iamrashidyousufzai@gmail.com**
 
